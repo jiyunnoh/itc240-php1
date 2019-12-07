@@ -1,0 +1,66 @@
+/*Styles for my new switch*/
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+header {
+    background: tan;
+    height: 150px;
+}
+
+nav {
+    background: beige;
+    height: 50px;
+    line-height: 50px;
+}
+
+
+
+nav li {
+    float: left;
+    list-style-type: none;
+    margin: 0 50px;
+}
+
+.active {
+    color: red;
+    font-weight: bold;
+}
+
+#wrapper {
+    width: 940px;
+    margin: 20px auto;
+}
+
+main {
+    width: 580px;
+    float: left;
+}
+
+aside {
+    width: 340px;
+    float: right;
+}
+
+.red aside {
+    background: red;
+}
+
+.pink aside {
+    background: pink;
+}
+
+
+
+
+
+
+
+
+
+

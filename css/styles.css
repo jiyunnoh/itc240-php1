@@ -1,0 +1,137 @@
+/*Styles for Site 1*/
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    font-family: verdana, helvetica, arial, sans-serif;
+}
+
+header {
+    width: 940px;
+    margin: 50px auto;
+}
+
+#wrapper {
+    width: 940px;
+    margin: 20px auto;
+    overflow: hidden;
+    
+}
+
+main {
+    /* background: tan; */
+    float: left;
+    width: 580px;
+}
+
+aside {
+    border: 2px black double;
+    padding: 10px;
+    float: right;
+    width: 340px;
+}
+
+img {
+    float: right;
+    border: 3px black solid;
+    margin: 0 0 10px 10px;
+}
+
+#validator {
+    border: none;
+    padding: 0;
+    margin: 0;
+    background: white;
+}
+
+ul {
+    margin: 0 0 15px 30px;
+}
+
+#logo {
+    float: left;
+}
+
+footer {
+    height: 50px;
+    line-height: 50px;
+    clear: both;
+}
+
+footer li {
+    float: left;
+    margin-right: 30px;
+    list-style-type: none;
+    font-size: .9em;
+}
+
+
+
+
+
+
+h1 {
+    color:#FF5733;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color:#3591EE;
+    margin-bottom: 20px;            
+}
+
+h3 {
+    color: #3591EE;
+    margin-bottom: 20px;
+}
+
+p {
+    line-height: 1.6em;
+    margin-bottom: 20px;
+}
+
+hr {
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

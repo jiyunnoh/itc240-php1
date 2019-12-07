@@ -1,0 +1,105 @@
+/*Styles for Site 1*/
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+header {
+    height: 200px;
+    background: yellow;
+}
+
+nav {
+    height: 50px;
+    line-height: 50px;
+    background: red;
+}
+
+nav ul {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+nav li {
+    float: left;
+    width: 20%;
+    text-align: center;
+    list-style-type: none;
+}
+
+#wrapper {
+    width: 940px;
+    margin: 20px auto;
+}
+
+#banner {
+    height: 400px;
+    background: beige;
+}
+
+main {
+    background: tan;
+    height: 400px;
+    float: left;
+    width: 580px;
+}
+
+aside {
+    background: #ccc;
+    height: 300px;
+    float: right;
+    width: 340px;
+}
+
+footer {
+    height: 50px;
+    line-height: 50px;
+    background: pink;
+    clear: both;
+}
+
+footer li {
+    float: left;
+    margin-right: 30px;
+    list-style-type: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

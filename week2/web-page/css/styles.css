@@ -1,0 +1,17 @@
+/*Styles for my web-page*/
+
+body {
+    background: beige;
+}
+
+#wrapper {
+    width: 76%;
+    max-width: 1100px;
+    margin: 20px auto;
+}
+
+footer {
+    height: 50px;
+    background: #ddd;
+    line-height: 50px;
+}
